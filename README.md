@@ -1,9 +1,5 @@
 # 🧾 Tax Ledger System (C++)
 
-> **Developed by:** Muhammad Obaidullah (24L-0509)  
-> **Course Project:** Data Structures and Algorithms  
-> **Institution:** FAST-NUCES Lahore
-
 ---
 
 ## 📖 Overview
